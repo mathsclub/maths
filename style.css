@@ -1,0 +1,90 @@
+@media (min-width: 1200px ) {
+	.col-lg-12
+	{
+		float: left;
+		width: 98%;
+		height:auto;
+		border: 5px solid black;
+		
+		margin-left: 25px;
+
+	    background-color: grey;
+			}
+		
+}
+
+@media (max-width: 1200px ) {
+	.col-lg-12
+	{
+		float: left;
+		width: 98%;
+		height:auto;
+		border: 5px solid black;
+		
+		margin-left: 25px;
+
+	    background-color: grey;
+			}
+		
+}
+#chic{
+	float:right;
+	text-align: center;
+	background-color: red;
+	width:150px;
+	height:40px;
+	border: 1px solid black;
+	margin-top: 0;
+	padding-top: 0;
+	font-size: 175%;
+	font-family: serif;
+}
+
+
+#p{
+	margin-top: 60px;
+	padding:15px;
+   font-size: 120%;
+   font-family:sans-serif;
+}
+#head{
+	text-align: center;
+}
+#h{
+ padding-left: 20px;
+	font-size: 150%;
+	font-family: sans-serif;
+	color:black;
+	 }
+#navp{
+	background-color: grey;
+	min-height: 100px;
+	
+}
+#ch {
+	color: red;
+	text-align: center;
+	font-size: 250%;
+}
+#be{
+	color:red;
+	text-align: center;
+	font-size: 250%;
+}
+#su{
+	color:red;
+	text-align: center;
+	font-size: 250%;
+}
+#her{
+	background-color: white;
+	margin-bottom: 4px;
+}
+#collapsable-nav{
+margin-top: 20px;
+margin-bottom: 0px;
+border:2px;
+}
+#headd{
+	border:2px;
+}
